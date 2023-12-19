@@ -12,4 +12,4 @@ function detector (speed) {
         return "license suspended"
     }
 }
-console.log (speed(65))
+console.log (detector(65))
