@@ -13,3 +13,4 @@ function detector (speed) {
     }
 }
 console.log (detector(65))
+//Detector is the function used here,speed is the variable that changes and the response being sent depend with the variable

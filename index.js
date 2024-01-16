@@ -19,3 +19,4 @@ function grading (score){
     }
 }
 console.log (grading (50))
+//Grading is the function with variable score which changes and returns grade depending on the input score
